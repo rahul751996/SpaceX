@@ -20,7 +20,7 @@ Pre-Requisites
 * ``TypeScript``
 
 **Approach to Build The Project**
-1) Firstly create a Base Project of Angular 10 with command "ng new <Project Name>
+1) Firstly create a Base Project of Angular 10 with command "ng new (project name)"
 2) create the CSS and HTML part of the View 
 3) Next implement the logic to fetch the data from the API and Integare to DOM
 4) Here i have used service mecahnism to fetch the data with HTTP client Module, to make it future scaleable
@@ -36,11 +36,11 @@ Steps to Run Project Run Project
 
 **Home View showing list of Launches**
 
-![Home Page Desktop](SpaceX\DesktopView.jpg)
+![Home Page Desktop](https://github.com/rahul751996/SpaceX/blob/main/SpaceX/DesktopView.jpg)
 
-![Home Page Mobile](SpaceX\MobileView.jpg)
+![Home Page Mobile](https://github.com/rahul751996/SpaceX/blob/main/SpaceX/MobileView.jpg)
 
-![Home Page Tablet](SpaceX\TabletView.jpg)
+![Home Page Tablet](https://github.com/rahul751996/SpaceX/blob/main/SpaceX/TabletView.jpg)
 
 
 Live Preview https://space-x-assignment1.herokuapp.com/
